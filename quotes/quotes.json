@@ -1,38 +1,78 @@
 [
-  {
-    "text": "Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живете",
-    "author": "Стив Макконнелл"
-  },
-  {
-    "text": "Сложность программы растет до тех пор, пока не превысит способности программиста",
-    "author": "Артур Блох. Законы Мэрфи"
-  },
-  {
-    "text": "Ходить по воде и разрабатывать программы, следуя ТЗ, очень просто… если они заморожены",
-    "author": "И. Берард"
-  },
-  {
-    "text": "Цели никогда не должны быть простыми. Они должны быть неудобными, чтобы заставить вас работать",
-    "author": "Майкл Фелпс"
-  },
-  {
-    "text": "Чем умнее человек, тем легче он признает себя дураком",
-    "author": "Альберт Эйнштейн"
-  },
-  {
-    "text": "Никогда не ошибается тот, кто ничего не делает",
-    "author": "Теодор Рузвельт"
-  },
-  {
-    "text": "Менее всего просты люди, желающие казаться простыми",
-    "author": "Лев Николаевич Толстой"
-  },
-  {
-    "text": "Мы находимся здесь, чтобы внести свой вклад в этот мир. Иначе зачем мы здесь?",
-    "author": "Стив Джобс"
-  },
-  {
-    "text": "Если тебе тяжело, значит ты поднимаешься в гору. Если тебе легко, значит ты летишь в пропасть",
-    "author": "Генри Форд"
-  }
+  [
+    {
+      "text": "Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живете",
+      "author": "Стив Макконнелл"
+    },
+    {
+      "text": "Сложность программы растет до тех пор, пока не превысит способности программиста",
+      "author": "Артур Блох. Законы Мэрфи"
+    },
+    {
+      "text": "Ходить по воде и разрабатывать программы, следуя ТЗ, очень просто… если они заморожены",
+      "author": "И. Берард"
+    },
+    {
+      "text": "Цели никогда не должны быть простыми. Они должны быть неудобными, чтобы заставить вас работать",
+      "author": "Майкл Фелпс"
+    },
+    {
+      "text": "Чем умнее человек, тем легче он признает себя дураком",
+      "author": "Альберт Эйнштейн"
+    },
+    {
+      "text": "Никогда не ошибается тот, кто ничего не делает",
+      "author": "Теодор Рузвельт"
+    },
+    {
+      "text": "Менее всего просты люди, желающие казаться простыми",
+      "author": "Лев Николаевич Толстой"
+    },
+    {
+      "text": "Мы находимся здесь, чтобы внести свой вклад в этот мир. Иначе зачем мы здесь?",
+      "author": "Стив Джобс"
+    },
+    {
+      "text": "Если тебе тяжело, значит ты поднимаешься в гору. Если тебе легко, значит ты летишь в пропасть",
+      "author": "Генри Форд"
+    }
+  ],
+  [
+    {
+      "text": "Write code as if it were accompanied by a violent psychopath who knows where you live",
+      "author": "Steve McConnell"
+    },
+    {
+      "text": "The complexity of the program grows until it exceeds the ability of the programmer.",
+      "author": "Arthur Bloch. Murphy's laws"
+    },
+    {
+      "text": "It's very easy to walk on water and develop programs according to the ToR... if they are frozen",
+      "author": "I. Berard"
+    },
+    {
+      "text": "Goals should never be simple. They must be uncomfortable to get you to work.",
+      "author": "Michael Phelps"
+    },
+    {
+      "text": "The smarter a person is, the easier it is for him to recognize himself as a fool.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "The one who does nothing is never wrong",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "text": "Least of all are people who want to appear simple",
+      "author": "Lev Nikolayevich Tolstoy"
+    },
+    {
+      "text": "We are here to contribute to this world. Why else are we here?",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "If it's hard for you, then you're going uphill. If it's easy for you, then you're flying into the abyss",
+      "author": "Henry Ford"
+    }
+  ]
 ]
